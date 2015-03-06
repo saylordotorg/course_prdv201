@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PRDV201: Accounting Principles I"
+course_description: "This course is designed to present the accounting cycle in an accessible and logical manner. It will provide you with a solid understanding of basic accounting principles and will introduce you to financial statement analysis."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: Constructing Financial Statements** <span id="3"></span> 
 *In Unit 2, you learned that financial statements include the balance
 sheet, income statement, statement of cash flows, and statement of

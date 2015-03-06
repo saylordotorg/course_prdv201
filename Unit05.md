@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PRDV201: Accounting Principles I"
+course_description: "This course is designed to present the accounting cycle in an accessible and logical manner. It will provide you with a solid understanding of basic accounting principles and will introduce you to financial statement analysis."
+next: ../Unit06
+previous: ../Unit04
+---
 **Unit 5: Inventory Reporting** <span id="5"></span> 
 *In this unit, you will learn about inventory reporting for
 merchandisers and manufacturing firms, and the conventions used in

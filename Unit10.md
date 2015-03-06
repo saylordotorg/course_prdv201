@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PRDV201: Accounting Principles I"
+course_description: "This course is designed to present the accounting cycle in an accessible and logical manner. It will provide you with a solid understanding of basic accounting principles and will introduce you to financial statement analysis."
+next: ../Unit11
+previous: ../Unit09
+---
 **Unit 10: Financial Statement Analysis** <span id="10"></span> 
 *In this unit, you will learn how to analyze financial statements and
 financial ratios.  In the last unit, you examined the information

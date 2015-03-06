@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PRDV201: Accounting Principles I"
+course_description: "This course is designed to present the accounting cycle in an accessible and logical manner. It will provide you with a solid understanding of basic accounting principles and will introduce you to financial statement analysis."
+next: ../Unit10
+previous: ../Unit08
+---
 **Unit 9: Calculating Financial Ratios** <span id="9"></span> 
 *In Unit 3, you learned how to prepare a company’s financial
 statements.  In this unit, you will learn to calculate financial ratios

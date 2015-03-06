@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PRDV201: Accounting Principles I"
+course_description: "This course is designed to present the accounting cycle in an accessible and logical manner. It will provide you with a solid understanding of basic accounting principles and will introduce you to financial statement analysis."
+next: ../Unit08
+previous: ../Unit06
+---
 **Unit 7: Long-Term Intangible Asset Reporting** <span id="7"></span> 
 *In Unit 6, you learned about tangible assets or items that have a
 “physical” presence.  Tangible assets, however, are not the only types

@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PRDV201: Accounting Principles I"
+course_description: "This course is designed to present the accounting cycle in an accessible and logical manner. It will provide you with a solid understanding of basic accounting principles and will introduce you to financial statement analysis."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: The Accounting Cycle** <span id="2"></span> 
 *Suppose you purchase $500 of material for inventory, accept $150 in
 payment for merchandise sold, and pay $4,000 in employee wages.  How do

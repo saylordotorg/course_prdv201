@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PRDV201: Accounting Principles I"
+course_description: "This course is designed to present the accounting cycle in an accessible and logical manner. It will provide you with a solid understanding of basic accounting principles and will introduce you to financial statement analysis."
+next: ../Unit09
+previous: ../Unit07
+---
 **Unit 8: Liability Reporting** <span id="8"></span> 
 *Bill Bowerman and Phil Knight started the athletic company Nike with an
 initial investment of $1,000 in 1972.  Just 40 years later, Nike is the

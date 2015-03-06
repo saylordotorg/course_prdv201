@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PRDV201: Accounting Principles I"
+course_description: "This course is designed to present the accounting cycle in an accessible and logical manner. It will provide you with a solid understanding of basic accounting principles and will introduce you to financial statement analysis."
+next: ../Unit02
+previous: ../Intro
+---
 **Unit 1: Introduction to Financial Accounting** <span id="1"></span> 
 *Suppose you are the Chief Financial Officer (CFO) of a small business
 in the restaurant industry and have been asked by key investors whether

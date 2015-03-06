@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PRDV201: Accounting Principles I"
+course_description: "This course is designed to present the accounting cycle in an accessible and logical manner. It will provide you with a solid understanding of basic accounting principles and will introduce you to financial statement analysis."
+next: ../Unit05
+previous: ../Unit03
+---
 **Unit 4: Accounts Receivable Reporting** <span id="4"></span> 
 *Suppose you purchase a new 3-D television from a local retailer and
 make the purchase on a store-issued credit card.  How does the retailer
