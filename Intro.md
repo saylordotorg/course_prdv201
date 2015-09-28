@@ -148,3 +148,4 @@ designed to take approximately three hours per week to complete.
 - [Unit 9](https://legacy.saylor.org/prdv201/Unit09/)
 - [Unit 10](https://legacy.saylor.org/prdv201/Unit10/)
 - [Unit 11](https://legacy.saylor.org/prdv201/Unit11/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/PRDV/PRDV201/PRDV201-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/PRDV/PRDV201/PRDV201-FinalExam-Answers.html)
