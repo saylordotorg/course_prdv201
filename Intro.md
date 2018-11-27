@@ -96,7 +96,7 @@ computer.
  √    Be competent in the English language.  
   
  √    Have read the [Saylor Student
-Handbook](http://www.saylor.org/site/wp-content/uploads/2012/05/Saylor-StudentHandbook.pdf).
+Handbook](https://resources.saylor.org/archived/wp-content/uploads/2012/05/Saylor-StudentHandbook.pdf).
 
 ### Course Information
 
@@ -113,7 +113,7 @@ following materials:
     Accounting*](http://www.principlesofaccounting.com)
 -   Global Text Project: James Don Edwards and Roger H. Hermanson’s
     [*Accounting Principles: A Business Perspective, Volume I: Financial
-    Accounting *](http://www.saylor.org/site/wp-content/uploads/2012/10/Accounting-Principles-Vol.-1.pdf)
+    Accounting *](https://resources.saylor.org/archived/wp-content/uploads/2012/10/Accounting-Principles-Vol.-1.pdf)
 -   Salman Khan’s [Khan Academy](http://www.khanacademy.org)
 
 **Requirements for Completion: **In order to complete this course, you

@@ -211,7 +211,7 @@ liabilities and how they are recorded on financial statements.*
     Hermanson’s *Accounting Principles: A Business Perspective, First
     Global Text Edition, Volume 1: Financial Accounting*: [“Chapter 2:
     Recording Business
-    Transactions”](http://www.saylor.org/site/wp-content/uploads/2012/10/Accounting-Principles-Vol.-1.pdf)
+    Transactions”](https://resources.saylor.org/archived/wp-content/uploads/2012/10/Accounting-Principles-Vol.-1.pdf)
     (PDF)  
       
      Instructions: If you have not already saved the PDF to your
@@ -249,7 +249,7 @@ through the text examples as you read along.*
     Hermanson’s *Accounting Principles: A Business Perspective, First
     Global Text Edition, Volume 1: Financial Accounting*: [“Chapter 2:
     Recording Business
-    Transactions”](http://www.saylor.org/site/wp-content/uploads/2012/10/Accounting-Principles-Vol.-1.pdf)
+    Transactions”](https://resources.saylor.org/archived/wp-content/uploads/2012/10/Accounting-Principles-Vol.-1.pdf)
     (PDF)  
       
      Instructions: If you have not already saved this document to your
@@ -277,7 +277,7 @@ through the text examples as you read along.*
     Hermanson’s *Accounting Principles: A Business Perspective, First
     Global Text Edition, Volume 1: Financial Accounting*: [“Chapter 2:
     Recording Business
-    Transactions”](http://www.saylor.org/site/wp-content/uploads/2012/10/Accounting-Principles-Vol.-1.pdf)
+    Transactions”](https://resources.saylor.org/archived/wp-content/uploads/2012/10/Accounting-Principles-Vol.-1.pdf)
     (PDF)  
       
      Instructions: If you have not already saved this document to your
@@ -306,7 +306,7 @@ through the text examples as you read along.*
     Hermanson’s *Accounting Principles: A Business Perspective, First
     Global Text Edition, Volume 1: Financial Accounting*: [“Chapter 3:
     Adjustments for Financial
-    Reporting”](http://www.saylor.org/site/wp-content/uploads/2012/10/Accounting-Principles-Vol.-1.pdf)
+    Reporting”](https://resources.saylor.org/archived/wp-content/uploads/2012/10/Accounting-Principles-Vol.-1.pdf)
     (PDF)  
       
      Instructions: If you have not already saved this document to your
@@ -337,7 +337,7 @@ through the text examples as you read along.*
     Hermanson’s *Accounting Principles: A Business Perspective, First
     Global Text Edition, Volume 1:* *Financial Accounting*: [“Chapter 3:
     Adjustments for Financial
-    Reporting”](http://www.saylor.org/site/wp-content/uploads/2012/10/Accounting-Principles-Vol.-1.pdf)
+    Reporting”](https://resources.saylor.org/archived/wp-content/uploads/2012/10/Accounting-Principles-Vol.-1.pdf)
     (PDF)  
       
      Instructions: If you have not already saved this document to your
@@ -366,7 +366,7 @@ through the text examples as you read along.*
     Hermanson’s *Accounting Principles: A Business Perspective, First
     Global Text Edition, Volume 1: Financial Accounting*: [“Chapter 3:
     Adjustments for Financial
-    Reporting”](http://www.saylor.org/site/wp-content/uploads/2012/10/Accounting-Principles-Vol.-1.pdf)
+    Reporting”](https://resources.saylor.org/archived/wp-content/uploads/2012/10/Accounting-Principles-Vol.-1.pdf)
     (PDF)  
       
      Instructions: If you have not already saved this document to your
@@ -395,7 +395,7 @@ through the text examples as you read along.*
     Hermanson’s *Accounting Principles: A Business Perspective, First
     Global Text Edition, Volume 1: Financial Accounting*: [“Chapter 3:
     Adjustments for Financial
-    Reporting”](http://www.saylor.org/site/wp-content/uploads/2012/10/Accounting-Principles-Vol.-1.pdf)
+    Reporting”](https://resources.saylor.org/archived/wp-content/uploads/2012/10/Accounting-Principles-Vol.-1.pdf)
     (PDF)  
       
      Instructions: If you have not already saved this document to your
@@ -419,7 +419,7 @@ through the text examples as you read along.*
     Organization International: Accounting 1 “Chapter 9: Receivables”**
     Link: Professional Education, Testing and Certification Organization
     International: *Accounting 1* [“Chapter 9:
-    Receivables”](http://www.saylor.org/site/wp-content/uploads/2013/04/PRDV201_Accounting-I_Chapter-9.pdf)
+    Receivables”](https://resources.saylor.org/archived/wp-content/uploads/2013/04/PRDV201_Accounting-I_Chapter-9.pdf)
     (PDF)  
       
      Instructions: Click on the link above and read Chapter 9 to learn
