@@ -57,7 +57,7 @@ Upon successful completion of this unit, the student will be able to:
     Hermanson’s *Accounting Principles: A Business Perspective, First
     Global Text Edition, Volume 1: Financial Accounting*: [“Chapter 9:
     Receivables and
-    Payables”](http://www.saylor.org/site/wp-content/uploads/2012/10/Accounting-Principles-Vol.-1.pdf)
+    Payables”](https://resources.saylor.org/archived/wp-content/uploads/2012/10/Accounting-Principles-Vol.-1.pdf)
     (PDF)  
       
      Instructions: If you have not already saved this document to your
@@ -192,7 +192,7 @@ Upon successful completion of this unit, the student will be able to:
     Hermanson’s *Accounting Principles: A Business Perspective, First
     Global Text Edition, Volume 1: Financial Accounting*: [“Chapter 9:
     Receivables and
-    Payables”](http://www.saylor.org/site/wp-content/uploads/2012/10/Accounting-Principles-Vol.-1.pdf)
+    Payables”](https://resources.saylor.org/archived/wp-content/uploads/2012/10/Accounting-Principles-Vol.-1.pdf)
     (PDF)  
       
      Instructions: If you have not already saved this document to your
