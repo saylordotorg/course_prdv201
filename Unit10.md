@@ -175,7 +175,7 @@ id="10.3"></span> 
 -   **Reading: Boundless: “Using Financial Statements to Understand a
     Business”**
     Link: Boundless: [“Using Financial Statements to Understand a
-    Business”](https://resources.saylor.org/archived/wp-content/uploads/2013/04/PRDV201_Accounting-by-Boundless_Using-Financial-Statements-to-Understand-a-Business.pdf)
+    Business”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/04/PRDV201_Accounting-by-Boundless_Using-Financial-Statements-to-Understand-a-Business.pdf)
     (PDF)  
       
      Instructions: Read this section of Boundless’s *Accounting*
@@ -233,7 +233,7 @@ id="10.3"></span> 
 **10.4 Financial Statement Forecasting** <span id="10.4"></span> 
 -   **Reading: Boundless: “Forecasting the Income Statement”**
     Link: Boundless: [“Forecasting the Income
-    Statement”](https://resources.saylor.org/archived/wp-content/uploads/2013/04/PRDV201_Finance-by-Boundless_Forecasting-the-Income-Statement.pdf)
+    Statement”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/04/PRDV201_Finance-by-Boundless_Forecasting-the-Income-Statement.pdf)
     (PDF)   
       
      Instructions: Please read this section of Boundless’s *Finance*

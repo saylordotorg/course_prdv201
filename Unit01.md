@@ -97,7 +97,7 @@ Upon successful completion of this unit, the student will be able to:
     Hermanson’s *Accounting Principles: A Business Perspective, First
     Global Text Edition, Volume 1: Financial Accounting*: [“Chapter 1:
     Accounting and Its Use in Business Decisions Business
-    Uses”](https://resources.saylor.org/archived/wp-content/uploads/2012/10/Accounting-Principles-Vol.-1.pdf)
+    Uses”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/10/Accounting-Principles-Vol.-1.pdf)
     (PDF)  
       
      Instructions: Click on the link above to download the PDF.  Read
@@ -129,7 +129,7 @@ Upon successful completion of this unit, the student will be able to:
     Hermanson’s *Accounting Principles: A Business Perspective, First
     Global Text Edition, Volume 1: Financial Accounting*: [“Chapter 1:
     Accounting and Its Use in Business
-    Decisions”](https://resources.saylor.org/archived/wp-content/uploads/2012/10/Accounting-Principles-Vol.-1.pdf)
+    Decisions”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/10/Accounting-Principles-Vol.-1.pdf)
     (PDF)  
       
      Instructions: Please click on the link above to download the PDF. 
@@ -222,7 +222,7 @@ id="1.5.1"></span> 
     Hermanson’s *Accounting Principles: A Business Perspective, First
     Global Text Edition, Volume 1: Financial Accounting*: [“Chapter 5:
     Accounting
-    Theory”](https://resources.saylor.org/archived/wp-content/uploads/2012/10/Accounting-Principles-Vol.-1.pdf)
+    Theory”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/10/Accounting-Principles-Vol.-1.pdf)
     (PDF)  
       
      Instructions: Click on the link above to download the PDF.  Read
@@ -253,7 +253,7 @@ id="1.5.1"></span> 
     Hermanson’s *Accounting Principles: A Business Perspective, First
     Global Text Edition, Volume 1: Financial Accounting*: [“Chapter 1:
     Development of Accounting
-    Standards”](https://resources.saylor.org/archived/wp-content/uploads/2012/10/Accounting-Principles-Vol.-1.pdf)
+    Standards”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/10/Accounting-Principles-Vol.-1.pdf)
     (PDF)  
       
      Instructions: Please click on the link above and read the
@@ -276,7 +276,7 @@ id="1.5.1"></span> 
     at the G20 London Summit”**
     Link: Governance Across Borders: Dr. Sigrid Quack’s [“Accounting at
     the G20 London
-    Summit”](https://resources.saylor.org/archived/wp-content/uploads/2012/12/PRDV201-1.5.2b.pdf)
+    Summit”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/12/PRDV201-1.5.2b.pdf)
     (PDF)  
       
      Instructions: Please click on the link above to access the article.

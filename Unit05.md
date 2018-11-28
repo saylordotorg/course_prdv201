@@ -133,7 +133,7 @@ Upon successful completion of this unit, the student will be able to:
     Hermanson’s *Accounting Principles: A Business Perspective, First
     Global Text Edition, Volume 1: Financial Accounting*: [“Chapter 6:
     Merchandising
-    Transactions”](https://resources.saylor.org/archived/wp-content/uploads/2012/10/Accounting-Principles-Vol.-1.pdf)
+    Transactions”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/10/Accounting-Principles-Vol.-1.pdf)
     (PDF)  
       
      Instructions: If you have not already saved this document to your
@@ -163,7 +163,7 @@ Upon successful completion of this unit, the student will be able to:
     Hermanson’s *Accounting Principles: A Business Perspective, First
     Global Text Edition, Volume 1: Financial Accounting*: [“Chapter 18:
     Managerial Accounting Concepts/Job
-    Costing”](https://resources.saylor.org/archived/wp-content/uploads/2012/10/Accounting-Principles-Vol.-1.pdf)
+    Costing”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/10/Accounting-Principles-Vol.-1.pdf)
     (PDF)  
       
      Instructions: If you have not already saved this document to your
@@ -194,7 +194,7 @@ Upon successful completion of this unit, the student will be able to:
     Hermanson’s *Accounting Principles: A Business Perspective, First
     Global Text Edition, Volume 1: Financial Accounting*: [“Chapter 7:
     Measuring and Reporting
-    Inventories”](https://resources.saylor.org/archived/wp-content/uploads/2012/10/Accounting-Principles-Vol.-1.pdf)
+    Inventories”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/10/Accounting-Principles-Vol.-1.pdf)
     (PDF)  
       
      Instructions: If you have not already saved this document to your
@@ -222,7 +222,7 @@ Upon successful completion of this unit, the student will be able to:
     Hermanson’s *Accounting Principles: A Business Perspective, First
     Global Text Edition, Volume 1: Financial Accounting*: [“Chapter 7:
     Measuring and Reporting
-    Inventories”](https://resources.saylor.org/archived/wp-content/uploads/2012/10/Accounting-Principles-Vol.-1.pdf)
+    Inventories”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/10/Accounting-Principles-Vol.-1.pdf)
     (PDF)  
       
      Instructions: If you have not already saved this document to your
@@ -276,7 +276,7 @@ converted to FIFO in the example outlined in the lecture.*
     Hermanson’s *Accounting Principles: A Business Perspective, First
     Global Text Edition, Volume 1: Financial Accounting*: [“Chapter 7:
     Measuring and Reporting
-    Inventories”](https://resources.saylor.org/archived/wp-content/uploads/2012/10/Accounting-Principles-Vol.-1.pdf)
+    Inventories”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/10/Accounting-Principles-Vol.-1.pdf)
     (PDF)  
       
      Instructions: If you have not already saved this document to your
