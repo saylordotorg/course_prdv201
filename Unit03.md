@@ -82,7 +82,7 @@ Upon successful completion of this unit, the student will be able to:
     Hermanson’s *Accounting Principles: A Business Perspective, First
     Global Text Edition, Volume 1: Financial Accounting*: [“Chapter 4:
     Completing the Accounting
-    Cycle”](https://resources.saylor.org/archived/wp-content/uploads/2012/10/Accounting-Principles-Vol.-1.pdf)
+    Cycle”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/10/Accounting-Principles-Vol.-1.pdf)
     (PDF)  
       
      Instructions: If you have not already saved this document to your
@@ -109,10 +109,10 @@ Upon successful completion of this unit, the student will be able to:
     Flows from Operating Activities: The Indirect Method”**
     Link: *Financial Accounting*: [“Section 17.2: Cash Flows from
     Operating Activities: The Direct
-    Method”](https://resources.saylor.org/archived/textbooks/Financial%20Accounting.pdf)
+    Method”](https://resources.saylor.org/wwwresources/archived/site/textbooks/Financial%20Accounting.pdf)
     (PDF) and [“Section 17.3: Cash Flows from Operating Activities: The
     Indirect
-    Method”](https://resources.saylor.org/archived/textbooks/Financial%20Accounting.pdf)
+    Method”](https://resources.saylor.org/wwwresources/archived/site/textbooks/Financial%20Accounting.pdf)
     (PDF)  
       
      Instructions: Click on the links above and scroll down to sections
@@ -138,7 +138,7 @@ Upon successful completion of this unit, the student will be able to:
     Global Text Edition, Volume 1: Financial Accounting*: [“Chapter 13:
     Corporations: Paid-in Capital, Retained Earnings, Dividends, and
     Treasury
-    Stock”](https://resources.saylor.org/archived/wp-content/uploads/2012/10/Accounting-Principles-Vol.-1.pdf)
+    Stock”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/10/Accounting-Principles-Vol.-1.pdf)
     (PDF)  
       
      Instructions: If you have not already saved this document to your
@@ -202,7 +202,7 @@ affect the income statement.*
     Global Text Edition, Volume 1: Financial Accounting*: [“Chapter 13:
     Corporations: Paid-in Capital, Retained Earnings, Dividends, and
     Treasury
-    Stock”](https://resources.saylor.org/archived/wp-content/uploads/2012/10/Accounting-Principles-Vol.-1.pdf)
+    Stock”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/10/Accounting-Principles-Vol.-1.pdf)
     (PDF)  
       
      Instructions: If you have not already saved this document to your
@@ -233,7 +233,7 @@ affect the income statement.*
     Hermanson’s *Accounting Principles: A Business Perspective, First
     Global Text Edition, Volume 1: Financial Accounting*: [“Chapter 4:
     Completing the Accounting
-    Cycle”](https://resources.saylor.org/archived/wp-content/uploads/2012/10/Accounting-Principles-Vol.-1.pdf)
+    Cycle”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/10/Accounting-Principles-Vol.-1.pdf)
     (PDF)  
       
      Instructions: If you have not already saved this document to your
@@ -282,7 +282,7 @@ affect the income statement.*
     Hermanson’s *Accounting Principles: A Business Perspective, First
     Global Text Edition, Volume 1: Financial Accounting*: [“Chapter 16:
     Analysis of the Statement of Cash
-    Flows”](https://resources.saylor.org/archived/wp-content/uploads/2012/10/Accounting-Principles-Vol.-1.pdf)
+    Flows”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/10/Accounting-Principles-Vol.-1.pdf)
     (PDF)  
       
      Instructions: If you have not already saved this document to your

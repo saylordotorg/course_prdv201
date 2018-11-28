@@ -46,7 +46,7 @@ Upon successful completion of this unit, the student will be able to:
     Hermanson’s *Accounting Principles: A Business Perspective, First
     Global Text Edition, Volume 1: Financial Accounting*: [“Chapter 11:
     Plant Asset Disposals, Natural Resources, and Intangible
-    Assets”](https://resources.saylor.org/archived/wp-content/uploads/2012/10/Accounting-Principles-Vol.-1.pdf)
+    Assets”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/10/Accounting-Principles-Vol.-1.pdf)
     (PDF)  
       
      Instructions: If you have not already saved this document to your
@@ -158,7 +158,7 @@ Upon successful completion of this unit, the student will be able to:
     Hermanson’s *Accounting Principles: A Business Perspective, First
     Global Text Edition, Volume 1: Financial Accounting*: [“Chapter 11:
     Plant Asset Disposals, Natural Resources, and Intangible
-    Assets”](https://resources.saylor.org/archived/wp-content/uploads/2012/10/Accounting-Principles-Vol.-1.pdf)
+    Assets”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/10/Accounting-Principles-Vol.-1.pdf)
     (PDF)  
       
      Instructions: If you have not already saved this document to your
@@ -207,7 +207,7 @@ id="7.2"></span> 
     Reporting of Intangible Assets”**
     Link: *Financial Accounting*: [“Section 11.2: The Balance Sheet
     Reporting of Intangible
-    Assets”](https://resources.saylor.org/archived/textbooks/Financial%20Accounting.pdf)
+    Assets”](https://resources.saylor.org/wwwresources/archived/site/textbooks/Financial%20Accounting.pdf)
     (PDF)  
       
      Instructions:  Please click on the link above and scroll down to
